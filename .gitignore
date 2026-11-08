@@ -1,0 +1,6 @@
+node_modules/
+dist/
+# Keep the original Excel file out of the public repo (remove this line to publish it)
+*.xlsx
+~$*
+.claude/

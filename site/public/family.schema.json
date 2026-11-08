@@ -1,0 +1,40 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Gia phả — family.json",
+  "description": "Nested family tree. Each person lists their own children; the generation (đời) is computed from nesting depth.",
+  "type": "object",
+  "required": ["root"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": { "type": "string" },
+    "familyName": { "type": "string", "description": "Shown as the site title, e.g. \"Họ Đàm\"." },
+    "updated": { "type": "string", "description": "Date this file was last updated, e.g. \"2026-11-04\"." },
+    "branchGeneration": {
+      "type": "integer",
+      "minimum": 1,
+      "default": 17,
+      "description": "Each person in this generation starts a colour-coded branch in the diagram."
+    },
+    "root": { "$ref": "#/definitions/person", "description": "The founder (đời 1)." }
+  },
+  "definitions": {
+    "person": {
+      "type": "object",
+      "required": ["name"],
+      "additionalProperties": false,
+      "properties": {
+        "name": { "type": "string", "minLength": 1, "description": "Full name / title, e.g. \"Đàm An\"." },
+        "sex": { "enum": ["M", "F"], "default": "M", "description": "M = Nam, F = Nữ." },
+        "birthDate": { "type": ["string", "null"], "description": "Free text: \"1990\", \"12/03/1990\", \"Canh Ngọ\"…" },
+        "deathDate": { "type": ["string", "null"], "description": "Free text, e.g. ngày giỗ \"15/7 âm lịch\"." },
+        "spouse": { "type": ["string", "null"], "description": "Vợ / chồng." },
+        "note": { "type": ["string", "null"], "description": "Any extra note." },
+        "children": {
+          "type": "array",
+          "description": "Children in birth order (eldest first).",
+          "items": { "$ref": "#/definitions/person" }
+        }
+      }
+    }
+  }
+}

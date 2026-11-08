@@ -1,0 +1,77 @@
+1	Cụ Di Tổ, thụy Vô Tâm	
+2	Cụ con trưởng	Cụ Di Tổ, thụy Vô Tâm
+2	Cụ Khai Tổ Minh Đạo	Cụ Di Tổ, thụy Vô Tâm
+3	Cụ Thủy tổ Đàm Thận Huy	Cụ Khai Tổ Minh Đạo
+3	Cụ Đàm Thận Giản	Cụ Khai Tổ Minh Đạo
+4	Cụ Phủ Quốc	Cụ Thủy tổ Đàm Thận Huy
+5	Cụ Nho Sinh	Cụ Phủ Quốc
+6	Cụ Quang Tán	Cụ Nho Sinh
+6	Cụ Quang Tá	Cụ Nho Sinh
+7	Cụ Xã Trưởng	Cụ Quang Tán
+8	Cụ Thái Bảo	Cụ Xã Trưởng
+9	Cụ Quốc Sư	Cụ Thái Bảo
+9	Cụ Trung Thứ	Cụ Thái Bảo
+9	Cụ Cống Ba	Cụ Thái Bảo
+9	Cụ thứ 4 - thất truyền	Cụ Thái Bảo
+10	Cụ Vũ	Cụ Quốc Sư
+11	Cụ Phủ	Cụ Vũ
+12	Cụ húy Thận Liêu	Cụ Phủ
+12	Cụ húy Thận Nghi	Cụ Phủ
+12	Cụ Thận Phó	Cụ Phủ
+12	Cụ Tu	Cụ Phủ
+12	Cụ Sương	Cụ Phủ
+13	Cụ Đạo Tín	Cụ Sương
+14	Cụ Đạo Tuệ	Cụ Đạo Tín
+14	Cụ Đạo Sâm	Cụ Đạo Tín
+15	Cụ Đàm Công, tự Thuận Hùng	Cụ Đạo Sâm
+15	Cụ Nam	Cụ Đạo Sâm
+15	Cụ Hậu Sáu, húy Dẻo	Cụ Đạo Sâm
+16	Cụ Giỗ	Cụ Đàm Công, tự Thuận Hùng
+16	Cụ Ba Giỗ	Cụ Đàm Công, tự Thuận Hùng
+16	Cụ Tư Giỗ	Cụ Đàm Công, tự Thuận Hùng
+16	Cụ Đàm Thận Chu	Cụ Hậu Sáu, húy Dẻo
+17	Cụ Điệt	Cụ Ba Giỗ
+17	Cụ Đàm Thận Toàn	Cụ Đàm Thận Chu
+17	Cụ Đàm Thận Khiêm	Cụ Đàm Thận Chu
+18	Cụ Đàm Ưng	Cụ Điệt
+18	Cụ Đàm Quất	Cụ Điệt
+18	Cụ Đàm Thận Hội	Cụ Đàm Thận Toàn
+18	Cụ Đàm Thận Thuyên	Cụ Đàm Thận Toàn
+18	Cụ Đàm Thận Thắng	Cụ Đàm Thận Toàn
+18	Đàm Thận Lợi	Cụ Đàm Thận Toàn
+18	Đàm Thận Đức	Cụ Đàm Thận Toàn
+18	Đàm Thận Tuấn	Cụ Đàm Thận Toàn
+18	Đàm Thịnh	Cụ Đàm Thận Khiêm
+18	Đàm Cương	Cụ Đàm Thận Khiêm
+18	Đàm Cường	Cụ Đàm Thận Khiêm
+18	Đàm Tráng	Cụ Đàm Thận Khiêm
+19	Đàm Sơn	Cụ Đàm Ưng
+19	Đàm Sao	Cụ Đàm Ưng
+19	Đàm Đức Hồng	Cụ Đàm Thận Hội
+19	Đàm Thanh Sơn	Cụ Đàm Thận Hội
+19	Đàm Đức Hùng	Cụ Đàm Thận Hội
+19	Đàm Đức Hà	Cụ Đàm Thận Hội
+19	Đàm Thận Ngọc	Cụ Đàm Thận Thuyên
+19	Đàm Thận Quế	Cụ Đàm Thận Thuyên
+19	Đàm Trung	Cụ Đàm Thận Thắng
+19	Đàm Long	Đàm Thận Lợi
+19	Đàm Tú	Đàm Thận Tuấn
+19	Đàm Đạt	Đàm Thịnh
+19	Đàm Quang	Đàm Cương
+19	Đàm Hưng	Đàm Cường
+19	Đàm Hùng	Đàm Cường
+19	Đàm Dũng	Đàm Tráng
+19	Đàm Tiến	Đàm Tráng
+19	Đàm Lực	Đàm Tráng
+20	Đàm Quang Hưng	Đàm Đức Hồng
+20	Đàm Lê Quang	Đàm Thanh Sơn
+20	Đàm Sơn Tùng	Đàm Thanh Sơn
+20	Đàm Tiến	Đàm Đức Hùng
+20	Đàm Đạt	Đàm Đức Hùng
+20	Đàm Phong	Đàm Đức Hà
+20	Đàm Vũ	Đàm Đức Hà
+20	Đàm Thiện Nhân	Đàm Thận Ngọc
+20	Đàm Anh	Đàm Thận Quế
+20	Đàm Việt	Đàm Thận Quế
+21	Đàm Minh Hiếu	Đàm Quang Hưng
+21	Đàm An	Đàm Anh

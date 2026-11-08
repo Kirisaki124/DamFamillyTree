@@ -1,0 +1,392 @@
+{
+  "$schema": "./family.schema.json",
+  "familyName": "Họ Đàm",
+  "updated": "2026-11-04",
+  "branchGeneration": 17,
+  "root": {
+    "name": "Cụ Di Tổ, thụy Vô Tâm",
+    "sex": "M",
+    "children": [
+      {
+        "name": "Cụ con trưởng",
+        "sex": "M"
+      },
+      {
+        "name": "Cụ Khai Tổ Minh Đạo",
+        "sex": "M",
+        "children": [
+          {
+            "name": "Cụ Thủy tổ Đàm Thận Huy",
+            "sex": "M",
+            "children": [
+              {
+                "name": "Cụ Phủ Quốc",
+                "sex": "M",
+                "children": [
+                  {
+                    "name": "Cụ Nho Sinh",
+                    "sex": "M",
+                    "children": [
+                      {
+                        "name": "Cụ Quang Tán",
+                        "sex": "M",
+                        "children": [
+                          {
+                            "name": "Cụ Xã Trưởng",
+                            "sex": "M",
+                            "children": [
+                              {
+                                "name": "Cụ Thái Bảo",
+                                "sex": "M",
+                                "children": [
+                                  {
+                                    "name": "Cụ Quốc Sư",
+                                    "sex": "M",
+                                    "children": [
+                                      {
+                                        "name": "Cụ Vũ",
+                                        "sex": "M",
+                                        "children": [
+                                          {
+                                            "name": "Cụ Phủ",
+                                            "sex": "M",
+                                            "children": [
+                                              {
+                                                "name": "Cụ húy Thận Liêu",
+                                                "sex": "M"
+                                              },
+                                              {
+                                                "name": "Cụ húy Thận Nghi",
+                                                "sex": "M"
+                                              },
+                                              {
+                                                "name": "Cụ Thận Phó",
+                                                "sex": "M"
+                                              },
+                                              {
+                                                "name": "Cụ Tu",
+                                                "sex": "M"
+                                              },
+                                              {
+                                                "name": "Cụ Sương",
+                                                "sex": "M",
+                                                "children": [
+                                                  {
+                                                    "name": "Cụ Đạo Tín",
+                                                    "sex": "M",
+                                                    "children": [
+                                                      {
+                                                        "name": "Cụ Đạo Tuệ",
+                                                        "sex": "M"
+                                                      },
+                                                      {
+                                                        "name": "Cụ Đạo Sâm",
+                                                        "sex": "M",
+                                                        "children": [
+                                                          {
+                                                            "name": "Cụ Đàm Công, tự Thuận Hùng",
+                                                            "sex": "M",
+                                                            "children": [
+                                                              {
+                                                                "name": "Cụ Giỗ",
+                                                                "sex": "M"
+                                                              },
+                                                              {
+                                                                "name": "Cụ Ba Giỗ",
+                                                                "sex": "M",
+                                                                "children": [
+                                                                  {
+                                                                    "name": "Cụ Điệt",
+                                                                    "sex": "M",
+                                                                    "children": [
+                                                                      {
+                                                                        "name": "Cụ Đàm Ưng",
+                                                                        "sex": "M",
+                                                                        "children": [
+                                                                          {
+                                                                            "name": "Đàm Sơn",
+                                                                            "sex": "M"
+                                                                          },
+                                                                          {
+                                                                            "name": "Đàm Sao",
+                                                                            "sex": "M"
+                                                                          }
+                                                                        ]
+                                                                      },
+                                                                      {
+                                                                        "name": "Cụ Đàm Quất",
+                                                                        "sex": "M"
+                                                                      }
+                                                                    ]
+                                                                  }
+                                                                ]
+                                                              },
+                                                              {
+                                                                "name": "Cụ Tư Giỗ",
+                                                                "sex": "M"
+                                                              }
+                                                            ]
+                                                          },
+                                                          {
+                                                            "name": "Cụ Nam",
+                                                            "sex": "M"
+                                                          },
+                                                          {
+                                                            "name": "Cụ Hậu Sáu, húy Dẻo",
+                                                            "sex": "M",
+                                                            "children": [
+                                                              {
+                                                                "name": "Cụ Đàm Thận Chu",
+                                                                "sex": "M",
+                                                                "children": [
+                                                                  {
+                                                                    "name": "Cụ Đàm Thận Toàn",
+                                                                    "sex": "M",
+                                                                    "children": [
+                                                                      {
+                                                                        "name": "Cụ Đàm Thận Hội",
+                                                                        "sex": "M",
+                                                                        "children": [
+                                                                          {
+                                                                            "name": "Đàm Đức Hồng",
+                                                                            "sex": "M",
+                                                                            "children": [
+                                                                              {
+                                                                                "name": "Đàm Quang Hưng",
+                                                                                "sex": "M",
+                                                                                "children": [
+                                                                                  {
+                                                                                    "name": "Đàm Minh Hiếu",
+                                                                                    "sex": "M"
+                                                                                  }
+                                                                                ]
+                                                                              }
+                                                                            ]
+                                                                          },
+                                                                          {
+                                                                            "name": "Đàm Thanh Sơn",
+                                                                            "sex": "M",
+                                                                            "children": [
+                                                                              {
+                                                                                "name": "Đàm Lê Quang",
+                                                                                "sex": "M"
+                                                                              },
+                                                                              {
+                                                                                "name": "Đàm Sơn Tùng",
+                                                                                "sex": "M"
+                                                                              }
+                                                                            ]
+                                                                          },
+                                                                          {
+                                                                            "name": "Đàm Đức Hùng",
+                                                                            "sex": "M",
+                                                                            "children": [
+                                                                              {
+                                                                                "name": "Đàm Tiến",
+                                                                                "sex": "M"
+                                                                              },
+                                                                              {
+                                                                                "name": "Đàm Đạt",
+                                                                                "sex": "M"
+                                                                              }
+                                                                            ]
+                                                                          },
+                                                                          {
+                                                                            "name": "Đàm Đức Hà",
+                                                                            "sex": "M",
+                                                                            "children": [
+                                                                              {
+                                                                                "name": "Đàm Phong",
+                                                                                "sex": "M"
+                                                                              },
+                                                                              {
+                                                                                "name": "Đàm Vũ",
+                                                                                "sex": "M"
+                                                                              }
+                                                                            ]
+                                                                          }
+                                                                        ]
+                                                                      },
+                                                                      {
+                                                                        "name": "Cụ Đàm Thận Thuyên",
+                                                                        "sex": "M",
+                                                                        "children": [
+                                                                          {
+                                                                            "name": "Đàm Thận Ngọc",
+                                                                            "sex": "M",
+                                                                            "children": [
+                                                                              {
+                                                                                "name": "Đàm Thiện Nhân",
+                                                                                "sex": "M"
+                                                                              }
+                                                                            ]
+                                                                          },
+                                                                          {
+                                                                            "name": "Đàm Thận Quế",
+                                                                            "sex": "M",
+                                                                            "children": [
+                                                                              {
+                                                                                "name": "Đàm Anh",
+                                                                                "sex": "M",
+                                                                                "children": [
+                                                                                  {
+                                                                                    "name": "Đàm An",
+                                                                                    "sex": "M"
+                                                                                  }
+                                                                                ]
+                                                                              },
+                                                                              {
+                                                                                "name": "Đàm Việt",
+                                                                                "sex": "M"
+                                                                              }
+                                                                            ]
+                                                                          }
+                                                                        ]
+                                                                      },
+                                                                      {
+                                                                        "name": "Cụ Đàm Thận Thắng",
+                                                                        "sex": "M",
+                                                                        "children": [
+                                                                          {
+                                                                            "name": "Đàm Trung",
+                                                                            "sex": "M"
+                                                                          }
+                                                                        ]
+                                                                      },
+                                                                      {
+                                                                        "name": "Đàm Thận Lợi",
+                                                                        "sex": "M",
+                                                                        "children": [
+                                                                          {
+                                                                            "name": "Đàm Long",
+                                                                            "sex": "M"
+                                                                          }
+                                                                        ]
+                                                                      },
+                                                                      {
+                                                                        "name": "Đàm Thận Đức",
+                                                                        "sex": "M"
+                                                                      },
+                                                                      {
+                                                                        "name": "Đàm Thận Tuấn",
+                                                                        "sex": "M",
+                                                                        "children": [
+                                                                          {
+                                                                            "name": "Đàm Tú",
+                                                                            "sex": "M"
+                                                                          }
+                                                                        ]
+                                                                      }
+                                                                    ]
+                                                                  },
+                                                                  {
+                                                                    "name": "Cụ Đàm Thận Khiêm",
+                                                                    "sex": "M",
+                                                                    "children": [
+                                                                      {
+                                                                        "name": "Đàm Thịnh",
+                                                                        "sex": "M",
+                                                                        "children": [
+                                                                          {
+                                                                            "name": "Đàm Đạt",
+                                                                            "sex": "M"
+                                                                          }
+                                                                        ]
+                                                                      },
+                                                                      {
+                                                                        "name": "Đàm Cương",
+                                                                        "sex": "M",
+                                                                        "children": [
+                                                                          {
+                                                                            "name": "Đàm Quang",
+                                                                            "sex": "M"
+                                                                          }
+                                                                        ]
+                                                                      },
+                                                                      {
+                                                                        "name": "Đàm Cường",
+                                                                        "sex": "M",
+                                                                        "children": [
+                                                                          {
+                                                                            "name": "Đàm Hưng",
+                                                                            "sex": "M"
+                                                                          },
+                                                                          {
+                                                                            "name": "Đàm Hùng",
+                                                                            "sex": "M"
+                                                                          }
+                                                                        ]
+                                                                      },
+                                                                      {
+                                                                        "name": "Đàm Tráng",
+                                                                        "sex": "M",
+                                                                        "children": [
+                                                                          {
+                                                                            "name": "Đàm Dũng",
+                                                                            "sex": "M"
+                                                                          },
+                                                                          {
+                                                                            "name": "Đàm Tiến",
+                                                                            "sex": "M"
+                                                                          },
+                                                                          {
+                                                                            "name": "Đàm Lực",
+                                                                            "sex": "M"
+                                                                          }
+                                                                        ]
+                                                                      }
+                                                                    ]
+                                                                  }
+                                                                ]
+                                                              }
+                                                            ]
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Cụ Trung Thứ",
+                                    "sex": "M"
+                                  },
+                                  {
+                                    "name": "Cụ Cống Ba",
+                                    "sex": "M"
+                                  },
+                                  {
+                                    "name": "Cụ thứ 4 - thất truyền",
+                                    "sex": "M"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Cụ Quang Tá",
+                        "sex": "M"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Cụ Đàm Thận Giản",
+            "sex": "M"
+          }
+        ]
+      }
+    ]
+  }
+}

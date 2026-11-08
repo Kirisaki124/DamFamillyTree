@@ -1,0 +1,34 @@
+{
+  "name": "ho-dam-family-tree",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "validate": "node scripts/validate.ts",
+    "typecheck": "tsc --noEmit",
+    "build": "node scripts/validate.ts && tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "compare-xlsx": "node scripts/compare-with-xlsx.mjs"
+  },
+  "dependencies": {
+    "d3-hierarchy": "^3.1.2",
+    "d3-selection": "^3.0.0",
+    "d3-transition": "^3.0.1",
+    "d3-zoom": "^3.0.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@types/d3-hierarchy": "^3.1.7",
+    "@types/d3-selection": "^3.0.11",
+    "@types/d3-transition": "^3.0.9",
+    "@types/d3-zoom": "^3.0.8",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.2.1",
+    "typescript": "^5.9.0",
+    "vite": "^8.3.6"
+  }
+}
